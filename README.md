@@ -1,4 +1,4 @@
-#giuseppe-adaldo-parental-control-service
+# giuseppe-adaldo-parental-control-service
 
 This service is an API that shows the client if a user is allowed to watch a movie by providing:
 user parental control level and movieId.
