@@ -1,0 +1,32 @@
+######## Parental guidance movies ########
+Welcome to Marwen=PG
+Dr. Seuss' The Grinch=PG
+Mortal Engines=PG
+Once Upon A Deadpool=PG
+Robin Hood (2018)=PG
+The Nutcracker=PG
+
+######## Universal movies ########
+Spider-Man:Into the Spider-Verse=U
+Blindspotting=U
+You Were Never Really Here=U
+A Quiet Place=U
+
+######## movies 12+ ########
+Jurassic World: Fallen Kingdom=12
+New Year's Eve=12
+Rampage=12
+Instant Family=12
+
+######## movies 15+ ########
+Bird Box=15
+Black Mirror=15
+Game of Thrones=15
+Black Mirror=15
+Vikings=15
+
+######## movies 18+ ########
+In the Fade=18
+Three Billboards Outside Ebbing=18
+La La Land=18
+Mother!=18
